@@ -1,0 +1,5 @@
+	Scimitar  sword 150  3.5
+Katana sword 200 	4.3
+  HP_Up	potion 75    1.1
+	Chainmail       armour 500  	20
+Elixir     potion	80    1.5
