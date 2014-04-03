@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.ArrayList;
 
-public class IsThisSwizzling{
+public class InventorySystem{
   
   public static void main(String[] args){
     ArrayList<Item> inventory = new ArrayList<Item>();
